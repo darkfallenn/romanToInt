@@ -13,3 +13,5 @@ def romanToInt(roman):
             ans -= m[roman[i]] # Otherwise subtract it
     return ans 
 
+# Time Complexity: O(n) 
+# (If you don't know what time complexity is, don't worry!)
